@@ -7,7 +7,7 @@ main:
     url: https://amandasyamsul.github.io/files/cv.pdf
     
   - title: "Media"
-    url: /portfolio/
+    url: /markdown/
 
   - title: "Codes"
     url: https://github.com/amandasyamsul/
@@ -22,5 +22,5 @@ main:
 #   - title: "Blog Posts"
 #     url: /year-archive/
    
-#   - title: "Guide"
-#     url: /markdown/
+#   - title: "Portfolio"
+#     url: /portfolio/
