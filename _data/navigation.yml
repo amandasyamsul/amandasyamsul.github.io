@@ -1,22 +1,29 @@
 # main links links
 main:
   - title: "Publications"
-    url: /publications/
-
-  - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
+    url: https://scholar.google.com/citations?hl=en&user=zHw0X1EAAAAJ
+   
   - title: "CV"
     url: /cv/
     
-  - title: "Guide"
-    url: /markdown/
+  - title: "Media"
+    url: /cv/ # change this to url that showcases photos
+    
+  - title: "Codes"
+    url: https://github.com/amandasyamsul/
+   
+    
+#   - title: "Portfolio"
+#     url: /portfolio/
+    
+#   - title: "Teaching"
+#     url: /teaching/    
+
+#   - title: "Talks"
+#     url: /talks/    
+    
+#   - title: "Blog Posts"
+#     url: /year-archive/
+   
+#   - title: "Guide"
+#     url: /markdown/
