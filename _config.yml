@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Amanda Syamsul"
+  name             : 
   avatar           : "headshot.JPEG"
   bio              : "Undergraduate Geophysics major & Applied Math minor, University of Washington"
   location         : "Seattle, WA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=zHw0X1EAAAAJ&hl=en"
-  email            :
+  email            : "mailto:amand4@uw.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
