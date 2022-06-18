@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Matanuska Glacier"
+excerpt: "Matanuska Glacier internship, 2021 ![Matanuska Glacier](images/mat1.JPG) ![Matanuska Glacier](images/mat2.jpg)"
 collection: portfolio
 ---
 
