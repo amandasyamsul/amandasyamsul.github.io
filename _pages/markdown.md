@@ -9,5 +9,5 @@ redirect_from:
 
 ## Matanuska Glacier internship, 2021
 
-![Matanuska Glacier](images/mat1.JPG) 
-![Matanuska Glacier](images/mat2.jpg)
+![Image of me crouched down next to pool of water on the Matanuska Glacier with an ice axe](amandasyamsul.github.io/images/mat1.JPG) 
+![Image of the Matanuska Glacier taken from a small airplane](amandasyamsul.github.io/images/mat2.jpg)
