@@ -8,4 +8,4 @@ date: 2021-12-15
 location: "New Orleans, LA"
 ---
 
-For more details, visit my [SLIQ repository.](https://github.com/amandasyamsul/SLIQ).
+For more details, visit my [SLIQ repository](https://github.com/amandasyamsul/SLIQ).
