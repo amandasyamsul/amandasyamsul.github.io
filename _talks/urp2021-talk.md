@@ -1,6 +1,6 @@
 ---
 title: "UW Undergraduate Research Symposium: Surface Load Induced Earthquakes"
-collection: Talks
+collection: talks
 type: "Talk"
 permalink: /talks/urp2021-talk
 venue: "Mary Gates Hall, Univ. of Washington"
