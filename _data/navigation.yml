@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "Publications"
-    url: https://scholar.google.com/citations?hl=en&user=zHw0X1EAAAAJ
+    url: https://scholar.google.com/citations?user=y1O7P74AAAAJ&hl=en
    
   - title: "CV"
     url: https://amandasyamsul.github.io/files/cv.pdf
@@ -12,10 +12,9 @@ main:
   - title: "Codes"
     url: https://github.com/amandasyamsul/
     
-  - title: "Talks"
-    url: /talks/
-   
-    
+#   - title: "Talks"
+#   url: /talks/
+
 #   - title: "Teaching"
 #     url: /teaching/       
     
