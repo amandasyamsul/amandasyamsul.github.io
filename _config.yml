@@ -10,7 +10,9 @@ locale                   : "en-US"
 title                    : "Amanda Syamsul"
 title_separator          : "-"
 name                     : &name "Amanda Syamsul"
-description              : &description "PhD student, University of California, Santa Cruz. | BSc. Geophysics major & Applied Math minor, University of Washington"
+description              : &description "PhD student, University of California, Santa Cruz.
+
+BSc. Geophysics major & Applied Math minor, University of Washington"
 url                      : https://amandasyamsul.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "amandasyamsul/amandasyamsul.github.io"
@@ -81,7 +83,7 @@ analytics:
 # Site Author
 author:
   name             : 
-  avatar           : "headshot.JPEG"
+  avatar           : "headshot2.jpg"
   bio              : "PhD student, University of California, Santa Cruz. | BSc. Geophysics major & Applied Math minor, University of Washington"
   location         : "Santa Cruz, CA"
   employer         :
