@@ -1,4 +1,4 @@
-# main links links
+u# main links links
 main:
   - title: "Publications"
     url: https://scholar.google.com/citations?user=y1O7P74AAAAJ&hl=en
@@ -15,8 +15,8 @@ main:
 #   - title: "Talks"
 #   url: /talks/
 
-  - title: "Teaching"
-    url: /teaching/       
+  - title: "Media" # the media tab details are edited through /_teaching
+    url: /media/       
     
 #   - title: "Blog Posts"
 #     url: /year-archive/
