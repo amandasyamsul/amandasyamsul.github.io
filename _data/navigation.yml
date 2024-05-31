@@ -5,12 +5,12 @@ main:
    
   - title: "CV"
     url: https://amandasyamsul.github.io/files/cv.pdf
-    
-#   - title: "Media"
-#     url: /markdown/ # unable to get this tab to display photos -- come back to this once you've figured out the path situation
 
   - title: "Codes"
     url: https://github.com/amandasyamsul/
+
+  - title: "Media"
+    url: /media/
     
 #   - title: "Talks"
 #   url: /talks/
