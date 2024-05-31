@@ -15,8 +15,8 @@ main:
 #   - title: "Talks"
 #   url: /talks/
 
-  - title: "Teaching" # the media tab details are edited through /_teaching # test comment
-    url: /teaching/       
+  - title: "Media" # the media tab details are edited through /_teaching # test comment
+    url: /media/       
     
 #   - title: "Blog Posts"
 #     url: /year-archive/
