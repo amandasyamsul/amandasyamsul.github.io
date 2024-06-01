@@ -25,5 +25,9 @@ My research focuses on:
 
 I completed my BSc. in Geophysics with a minor in Applied Math in the [Department of Earth and Space Sciences](https://www.ess.washington.edu/) at the University of Washington, where I did conducted research with [Brad Lipovsky](https://bradlipovsky.github.io/) in the Environmental Geophysics and Computation research group.
 
+![Image of the Environmental Geophysics and Computation research group, 2023](images/epic-group.JPG)
+
+In 2022, I did an internship on the Matanuska Glacier in Alaska where I guided tourists on a 3-mile glacier hike multiple times a day while navigating glacial terrain, while ensuring the safety of tourists or researchers and teaching them about glacial features and history.
+
 ![Image a section of the Matanuska Glacier](images/DSCF6029.jpg)
 
