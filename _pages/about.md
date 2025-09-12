@@ -16,8 +16,8 @@ Hello! I'm a current PhD student at the University of California, Santa Cruz wor
 
 My research currently focuses on:
 
-- **Oceanic Internal Waves**: Analyzing the velocity of internal waves in the South China Sea using satellite and OBS data.
-- **Glacial Isostatic Adjustment (GIA)**: Investigating GIA-induced stress changes on the Queen Charlotte Fault over miliion-year timescales.
+- **Internal Waves**: Decadal analysis on internal waves in the South China Sea using seafloor instrumentation and remote sensing
+- **Glacial Isostatic Adjustment (GIA)**: Investigating GIA-induced stress changes on the Queen Charlotte Fault over the last deglaciation (26 ka)
 
 ## Background
 
@@ -27,5 +27,9 @@ I earned my BSc. in Geophysics with a minor in Applied Math from the [Department
 
 In 2022, I completed an internship on the Matanuska Glacier in Alaska. During the internship, I led multiple 3-mile glacier hikes each day, guiding tourists and researchers through the glacial terrain. My responsibilities included ensuring the safety of the participants, as well as providing them with insights into glacial features and history.
 
-![Image a section of the Matanuska Glacier](images/DSCF6029.jpg)
+![Image of a section of the Matanuska Glacier](images/DSCF6029.jpg)
+
+I am currently at UCSC working with Emily Brodsky & Tamara Pico on Internal Waves and GIA. 
+![Image of collecting CTD measurements](images/59150904-EF29-4E34-90D9-91956925E27B_1_105_c.jpeg)
+
 
