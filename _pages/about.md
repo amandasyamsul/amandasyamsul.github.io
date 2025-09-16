@@ -12,6 +12,8 @@ redirect_from:
 
 Hello! I'm a current PhD student at the University of California, Santa Cruz working with [Tamara Pico](https://tamarapico.github.io/) and [Emily Brodsky](https://seismo.sites.ucsc.edu/emily-brodsky/). 
 
+![Image of Pico Group, 2025](images/98AE865F-1546-4392-9319-59487DC347BB_1_105_c.jpeg)
+
 ## Research Interests
 
 My research currently focuses on:
