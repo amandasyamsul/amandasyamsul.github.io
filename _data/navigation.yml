@@ -6,17 +6,17 @@ main:
   - title: "CV"
     url: https://amandasyamsul.github.io/files/cv.pdf
 
-  - title: "Codes"
+  - title: "Code"
     url: https://github.com/amandasyamsul/
 
-  # - title: "Media"
-  #   url: /media/
+# - title: "Media"
+#   url: /media/
     
-#   - title: "Talks"
-#   url: /talks/
+  - title: "Talks & Posters"
+  url: /talks/
 
-  - title: "Media" # the media tab details are edited through /_teaching # test comment
-    url: /media/       
+# - title: "Media" # the media tab details are edited through /_teaching # test comment
+#   url: /media/       
     
 #   - title: "Blog Posts"
 #     url: /year-archive/
