@@ -29,6 +29,7 @@ In 2022, I completed an internship on the Matanuska Glacier in Alaska. During th
 ![Image of a section of the Matanuska Glacier, 2021](images/DSCF6029.jpg)
 
 I am currently at UCSC working in the [Pico Group](https://tamarapico.github.io/) and [Seismology Lab](https://seismo.sites.ucsc.edu/)!
+
 ![Image of Pico Group at GIA workshop, 2025](images/98AE865F-1546-4392-9319-59487DC347BB_1_105_c.jpeg)
 ![Image of collecting CTD measurements, 2025](images/59150904-EF29-4E34-90D9-91956925E27B_1_105_c.jpeg)
 
