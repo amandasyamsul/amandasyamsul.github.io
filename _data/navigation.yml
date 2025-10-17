@@ -13,7 +13,7 @@ main:
 #   url: /media/
     
   - title: "Talks & Posters"
-  url: /talks/
+    url: /talks/
 
 # - title: "Media" # the media tab details are edited through /_teaching # test comment
 #   url: /media/       
