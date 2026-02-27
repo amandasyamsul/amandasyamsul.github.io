@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hello! I'm a graduate student at the University of California, Santa Cruz working with [Emily Brodsky](https://seismo.sites.ucsc.edu/emily-brodsky/) and [Tamara Pico](https://tamarapico.github.io/) and will be graduating in 2026.
+Hello! I'm a graduate student at the University of California, Santa Cruz working with [Emily Brodsky](https://seismo.sites.ucsc.edu/emily-brodsky/) and [Tamara Pico](https://tamarapico.github.io/).
 
 ![Image of me crouched down with an ice axe on the Matanuska Glacier, 2021](images/mat1.JPG)
 
