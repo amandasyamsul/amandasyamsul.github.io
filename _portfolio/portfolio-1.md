@@ -1,7 +1,15 @@
 ---
-title: "Matanuska Glacier"
-excerpt: "Matanuska Glacier internship, 2021 ![Matanuska Glacier](images/mat1.JPG) ![Matanuska Glacier](images/mat2.jpg)"
-collection: portfolio
+layout: archive
+title: "Portfolio"
+permalink: /portfolio/
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+## Scientific Illustrations
+
+Uploading illustrations soon! Stay tuned!
+
+## Geophysics Articles
+
+Uploading web pages soon! Stay tuned!
+
+---
