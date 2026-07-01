@@ -3,8 +3,8 @@ main:
   - title: "Publications"
     url: https://scholar.google.com/citations?user=y1O7P74AAAAJ&hl=en
    
-  - title: "CV"
-    url: https://amandasyamsul.github.io/files/Syamsul-CV-2026.pdf
+  - title: "Resume"
+    url: https://amandasyamsul.github.io/files/Syamsul-resume-2026.pdf
 
   - title: "Code"
     url: https://github.com/amandasyamsul/
@@ -21,5 +21,5 @@ main:
 #   - title: "Blog Posts"
 #     url: /year-archive/
    
-#   - title: "Portfolio"
-#     url: /portfolio/
+  - title: "Outreach & Illustrations"
+    url: /portfolio/
