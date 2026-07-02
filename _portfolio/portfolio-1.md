@@ -11,7 +11,7 @@ This portfolio highlights some of my work in **scientific communication, illustr
 
 *Illustration of survey methods and instruments used in seafloor geophysics.*
 
-![SSE comic](/images/FINAL-ZALI2.png)
+<img src="/images/FINAL-ZALI2.png" alt="Comic featuring article on Slow Slip Events" width="50%">
 
 *Comic featuring article on Slow Slip Events, written by [Zali et al, 2026](https://www.nature.com/articles/s41467-026-74095-9).*
 
