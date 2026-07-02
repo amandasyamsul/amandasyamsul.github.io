@@ -22,7 +22,7 @@ More coming soon!
 Read some of my work!
 
 <div style="border:1px solid #ddd; padding:16px; border-radius:8px; margin:20px 0;">
-  <h3><a href="https://www.earthscope.org/what-is/seafloor-geophysics/">Seafloor Geophysics</a></h3>
+  <h3><a href="https://www.earthscope.org/what-is/seafloor-geophysics/">What is Seafloor Geophysics?</a></h3>
 
   <p>
     Article for EarthScope Consortium introducing a variety of geophysical instruments and survey methods used to study the seafloor.
