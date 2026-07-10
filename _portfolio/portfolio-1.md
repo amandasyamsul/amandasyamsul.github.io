@@ -23,6 +23,10 @@ This portfolio highlights some of my work in **scientific communication, illustr
 
 *Illustration of the [Roadrunner](https://www.earthscope.org/news/from-polar-ice-to-portable-field-deployments-common-sensor-platform-prototypes-take-shape/), a self-contained, portable system designed for shorter duration seismic and GNSS deployments. Credit: Amanda Syamsul / EarthScope*
 
+<img src="/images/SubductionBlanket_BlackLogo.png" alt="Girl sleeping while subducted under the earth's crust, as if it is a weighted blanket. She is a using a pile of rocks (pillow basalt) as a pillow. Two volanoes lay atop the subduction blanket. An anthropomorphized satellite looks over her from the sky with a concerned expression." width="70%">
+
+*Subduction Blanket sticker. Credit: Amanda Syamsul / EarthScope*
+
 More coming soon!
 
 ## Articles
